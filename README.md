@@ -1,2 +1,2 @@
-# C-21
-Created the library
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
